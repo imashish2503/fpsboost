@@ -1,4 +1,4 @@
-# FPS Boost Texture Pack (Bedrock Edition) — All Rights Reserved
+# FPS Boost Texture Pack (Bedrock Edition)
 
 A lightweight Bedrock resource pack focused on higher performance with minimal visual distractions. It removes or simplifies effects (particles, environment textures, animated textures, fog/flipbooks, etc.) so you can get smoother gameplay on low-end devices.
 
