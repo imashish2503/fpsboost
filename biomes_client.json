@@ -1,0 +1,14 @@
+{
+  "format_version": "1.20.10",
+  "biomes": {
+    "minecraft:overworld": {
+      "fog_identifier": "performance:fog_overworld_perf"
+    },
+    "minecraft:the_nether": {
+      "fog_identifier": "performance:fog_nether_perf"
+    },
+    "minecraft:the_end": {
+      "fog_identifier": "performance:fog_end_perf"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Performance Boost Pack (1.21+)",
+    "description": "Disables texture animations and supports low-res + particle-free subpacks for low-end devices.",
+    "uuid": "6f1fd794-11c8-4e35-9c57-4c06c0aa2bcf",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "7571a22b-d4a0-4a39-91a9-fe758b3a73af",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "imashish2503"
+    ],
+    "license": "All Rights Reserved",
+    "url": "https://github.com/your/repo"
+  },
+  "subpacks": [
+    {
+      "folder_name": "subpacks/UltraLow",
+      "name": "Ultra Low (8x + particles off + env off)",
+      "description": "Max perf: tiny textures, particles off, env overlays removed.",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "subpacks/Low",
+      "name": "Low (16x + particles off + env off)",
+      "description": "Great perf: small textures, particles off, env overlays removed.",
+      "memory_tier": 2
+    },
+    {
+      "folder_name": "subpacks/Balanced",
+      "name": "Balanced (16x + reduced particles)",
+      "description": "Balanced: conservative texture downsizing, light particle reduction.",
+      "memory_tier": 3
+    }
+  ]
+}
