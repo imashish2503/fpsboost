@@ -1,11 +1,20 @@
 # FPS Boost Texture Pack (Bedrock Edition)
 
+<a href="https://www.curseforge.com/minecraft-bedrock/texture-packs/nolag-fpsboost-mcpe">
+  <img src="http://cf.way2muchnoise.eu/full_998782_downloads.svg" alt="CurseForge Downloads">
+</a>
+<a href="https://discord.gg/RG9PXPGsWj">
+  <img alt="Discord" src="https://img.shields.io/discord/1084792082599772212?color=blue&label=Discord">
+</a>
+<br>
+
 A lightweight Bedrock resource pack focused on higher performance with minimal visual distractions. It removes or simplifies effects (particles, environment textures, animated textures, fog/flipbooks, etc.) so you can get smoother gameplay on low-end devices.
 
 This project is not affiliated with Mojang, Microsoft, or Minecraft.
 
 ## Downloads
 - Preferred: download the latest `.mcpack` from the Curseforge or MCPEDL page.
+
 Curseforge: https://www.curseforge.com/minecraft-bedrock/texture-packs/nolag-fpsboost-mcpe
 
 MCPEDL: https://mcpedl.com/nolag-fpsboost-mcpe/
