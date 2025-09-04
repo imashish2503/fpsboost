@@ -7,6 +7,7 @@ This project is not affiliated with Mojang, Microsoft, or Minecraft.
 ## Downloads
 - Preferred: download the latest `.mcpack` from the Curseforge or MCPEDL page.
 Curseforge: https://www.curseforge.com/minecraft-bedrock/texture-packs/nolag-fpsboost-mcpe
+
 MCPEDL: https://mcpedl.com/nolag-fpsboost-mcpe/
 
 ## Installation
